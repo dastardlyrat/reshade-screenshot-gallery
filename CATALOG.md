@@ -1,0 +1,426 @@
+# Screenshot catalog
+
+This catalog describes the 99 source screenshots represented by the repository preview collages. Individual full-resolution source screenshots are retained locally and are not included in this repository.
+
+## Cyberpunk 2077
+
+- **Amber Industrial Underpass**
+  - Category: scene
+  - Original filename: photomode_25072025_100020.png
+  - Capture timestamp: 2025-07-25 10-00-20
+- **Backlit Road**
+  - Category: scene
+  - Original filename: photomode_29072025_070836.png
+  - Capture timestamp: 2025-07-29 07-08-36
+- **Bar Conversation**
+  - Category: scene
+  - Original filename: photomode_15082024_200626.png
+  - Capture timestamp: 2024-08-15 20-06-26
+- **Character on a Downtown Street**
+  - Category: scene
+  - Original filename: photomode_22072025_203706.png
+  - Capture timestamp: 2025-07-22 20-37-06
+- **Character on a Downtown Street Alternate**
+  - Category: scene
+  - Original filename: photomode_22072025_203741.png
+  - Capture timestamp: 2025-07-22 20-37-41
+- **Dark Industrial Underpass**
+  - Category: scene
+  - Original filename: photomode_25072025_073307.png
+  - Capture timestamp: 2025-07-25 07-33-07
+- **Daytime Market Street**
+  - Category: scene
+  - Original filename: photomode_18082024_072215.png
+  - Capture timestamp: 2024-08-18 07-22-15
+- **Festival Street Holograms**
+  - Category: scene
+  - Original filename: photomode_17082024_182225.png
+  - Capture timestamp: 2024-08-17 18-22-25
+- **Festival Street Holograms Alternate**
+  - Category: scene
+  - Original filename: photomode_17082024_182245.png
+  - Capture timestamp: 2024-08-17 18-22-45
+- **Formal Street Portrait**
+  - Category: scene
+  - Original filename: photomode_15082024_195148.png
+  - Capture timestamp: 2024-08-15 19-51-48
+- **Golden Horizon**
+  - Category: scene
+  - Original filename: photomode_29072025_151830.png
+  - Capture timestamp: 2025-07-29 15-18-30
+- **Golden Hour Street**
+  - Category: scene
+  - Original filename: photomode_25072025_072223.png
+  - Capture timestamp: 2025-07-25 07-22-23
+- **Green-Haired Alley Portrait**
+  - Category: scene
+  - Original filename: photomode_12082024_100311.png
+  - Capture timestamp: 2024-08-12 10-03-11
+- **Holographic Pyramid at Dusk**
+  - Category: scene
+  - Original filename: photomode_14082024_163638.png
+  - Capture timestamp: 2024-08-14 16-36-38
+- **Holographic Pyramid at Dusk Alternate**
+  - Category: scene
+  - Original filename: photomode_14082024_163704.png
+  - Capture timestamp: 2024-08-14 16-37-04
+- **Holographic Pyramid at Night**
+  - Category: scene
+  - Original filename: photomode_23072025_080802.png
+  - Capture timestamp: 2025-07-23 08-08-02
+- **Lantern Market Portrait**
+  - Category: scene
+  - Original filename: photomode_15082024_200949.png
+  - Capture timestamp: 2024-08-15 20-09-49
+- **Lantern Street at Night**
+  - Category: scene
+  - Original filename: photomode_15082024_195710.png
+  - Capture timestamp: 2024-08-15 19-57-10
+- **Lantern Street at Night Alternate**
+  - Category: scene
+  - Original filename: photomode_15082024_200329.png
+  - Capture timestamp: 2024-08-15 20-03-29
+- **Market Street**
+  - Category: scene
+  - Original filename: photomode_27072025_124007.png
+  - Capture timestamp: 2025-07-27 12-40-07
+- **Moon through Teal Mist**
+  - Category: scene
+  - Original filename: 20250728141120_1.jpg
+  - Capture timestamp: 2025-07-28 14-11-20
+- **Neon City Overlook**
+  - Category: scene
+  - Original filename: Neon City Overlook - 2024-08-14 10-35-11.png
+  - Capture timestamp: 2024-08-14 10-35-11
+- **Neon Lounge Portrait**
+  - Category: scene
+  - Original filename: photomode_18082024_065415.png
+  - Capture timestamp: 2024-08-18 06-54-15
+- **Neon Lounge Portrait Alternate**
+  - Category: scene
+  - Original filename: photomode_18082024_065442.png
+  - Capture timestamp: 2024-08-18 06-54-42
+- **Neon Market Street**
+  - Category: scene
+  - Original filename: photomode_20072025_165848.png
+  - Capture timestamp: 2025-07-20 16-58-48
+- **Rainy Lantern Street**
+  - Category: scene
+  - Original filename: photomode_26072025_094526.png
+  - Capture timestamp: 2025-07-26 09-45-26
+- **Red Lights in the Rain**
+  - Category: scene
+  - Original filename: 20250728072122_1.jpg
+  - Capture timestamp: 2025-07-28 07-21-22
+- **Smogbound City Overlook**
+  - Category: scene
+  - Original filename: photomode_15082024_091856.png
+  - Capture timestamp: 2024-08-15 09-18-56
+- **Smogbound City Overlook Alternate**
+  - Category: scene
+  - Original filename: photomode_15082024_091924.png
+  - Capture timestamp: 2024-08-15 09-19-24
+- **Sunlit Boulevard**
+  - Category: scene
+  - Original filename: photomode_29072025_065156.png
+  - Capture timestamp: 2025-07-29 06-51-56
+- **Sunlit City Boulevard**
+  - Category: scene
+  - Original filename: photomode_25072025_070311.png
+  - Capture timestamp: 2025-07-25 07-03-11
+- **Sunlit Industrial Alley**
+  - Category: scene
+  - Original filename: photomode_15082024_093414.png
+  - Capture timestamp: 2024-08-15 09-34-14
+- **Sunlit Street Corridor**
+  - Category: scene
+  - Original filename: photomode_15082024_094222.png
+  - Capture timestamp: 2024-08-15 09-42-22
+- **Teal Night Street**
+  - Category: scene
+  - Original filename: photomode_18072025_060010.png
+  - Capture timestamp: 2025-07-18 06-00-10
+- **Two Figures at Dusk**
+  - Category: scene
+  - Original filename: 20250722204538_1.jpg
+  - Capture timestamp: 2025-07-22 20-45-38
+- **Woman on a City Overlook**
+  - Category: scene
+  - Original filename: 20250726142204_1.jpg
+  - Capture timestamp: 2025-07-26 14-22-04
+
+## DARK SOULS III
+
+- **Castle Arch and Ember Sky**
+  - Category: scene
+  - Original filename: Castle Arch and Ember Sky - 2026-11-01 13-47-04_442.png
+  - Capture timestamp: 2026-11-01 13-47-04_442
+- **Eclipse and Bonfire**
+  - Category: scene
+  - Original filename: Eclipse and Bonfire - 2026-11-01 13-46-29_234.png
+  - Capture timestamp: 2026-11-01 13-46-29_234
+- **Twisted Tree and Castle**
+  - Category: scene
+  - Original filename: Twisted Tree and Castle - 2026-11-06 04-27-32_679.png
+  - Capture timestamp: 2026-11-06 04-27-32_679
+
+## Ghost of Tsushima Directors Cut
+
+- **Rider in Blue Moonlight**
+  - Category: scene
+  - Original filename: Rider in Blue Moonlight - 2025-03-20 09-35-50_258.png
+  - Capture timestamp: 2025-03-20 09-35-50_258
+
+## Gothic 1 Remake
+
+- **Woodland Wanderer and Ruins**
+  - Category: scene
+  - Original filename: G1R-Win64-Shipping 2026-06-17 06-43-53_647.png
+  - Capture timestamp: 2026-06-17 06-43-53_647
+
+## Kingdom Come Deliverance II
+
+- **Golden Field beneath Clouds**
+  - Category: scene
+  - Original filename: screenshot_260125_065234.jpg
+  - Capture timestamp: 2026-01-25 06-52-34
+- **Grassy Clearing**
+  - Category: scene
+  - Original filename: screenshot_260126_162828.jpg
+  - Capture timestamp: 2026-01-26 16-28-28
+- **Green Field and Summer Sky**
+  - Category: scene
+  - Original filename: screenshot_250806_145841.jpg
+  - Capture timestamp: 2025-08-06 14-58-41
+- **Sunlit Meadow Path**
+  - Category: scene
+  - Original filename: screenshot_250806_070727.jpg
+  - Capture timestamp: 2025-08-06 07-07-27
+- **Wildflower Meadow**
+  - Category: scene
+  - Original filename: screenshot_260125_033455.jpg
+  - Capture timestamp: 2026-01-25 03-34-55
+- **Woodland Wildflowers**
+  - Category: scene
+  - Original filename: screenshot_260126_162909.jpg
+  - Capture timestamp: 2026-01-26 16-29-09
+
+## MGS TPP
+
+- **Crouched Soldier on a Dry Hillside**
+  - Category: scene
+  - Original filename: Crouched Soldier on Dry Hillside - 2025-01-10 12-58-26.png
+  - Capture timestamp: 2025-01-10 12-58-26
+
+## Unidentified Game
+
+- **Fortress in an Explosive Storm**
+  - Category: scene
+  - Original filename: 20250526120305_1.jpg
+  - Capture timestamp: 2025-05-26 12-03-05
+
+## XCOM 2
+
+- **Bright Workshop Outline Diagnostic**
+  - Category: diagnostic
+  - Original filename: Bright Workshop Outline Diagnostic - 2026-06-26 14-33-54_585.png
+  - Capture timestamp: 2026-06-26 14-33-54_585
+- **Cyan and Red Street Diagnostic**
+  - Category: diagnostic
+  - Original filename: Cyan and Red Street Diagnostic - 2026-06-11 16-17-41_985.png
+  - Capture timestamp: 2026-06-11 16-17-41_985
+- **Dim Hangar Title Screen**
+  - Category: title-screen
+  - Original filename: Title Screen in Dim Hangar - 2026-06-10 09-52-56_618.png
+  - Capture timestamp: 2026-06-10 09-52-56_618
+- **Equipment Grid Outline Diagnostic**
+  - Category: diagnostic
+  - Original filename: Equipment Grid Outline Diagnostic - 2026-06-21 00-31-54_461.png
+  - Capture timestamp: 2026-06-21 00-31-54_461
+- **Gray Soldier Outline Diagnostic**
+  - Category: diagnostic
+  - Original filename: Gray Soldier Outline Diagnostic - 2026-06-18 19-13-54_029.png
+  - Capture timestamp: 2026-06-18 19-13-54_029
+- **Neon Combat Title Screen**
+  - Category: title-screen
+  - Original filename: Title Screen with Neon Combat Effects - 2026-06-13 17-28-47_950.png
+  - Capture timestamp: 2026-06-13 17-28-47_950
+- **Orange Skyline Title Screen**
+  - Category: title-screen
+  - Original filename: Title Screen with Orange Skyline - 2026-06-09 10-51-28_240.png
+  - Capture timestamp: 2026-06-09 10-51-28_240
+- **Roadside Forecourt Title Screen**
+  - Category: title-screen
+  - Original filename: Title Screen at a Roadside Forecourt - 2026-06-13 07-35-45_257.png
+  - Capture timestamp: 2026-06-13 07-35-45_257
+
+## ELDEN RING
+
+- **Amber Meadow Figure**
+  - Category: scene
+  - Original filename: eldenring 2026-09-14 04-13-43_552.png
+  - Capture timestamp: 2026-09-14 04-13-43_552
+- **Armored Figure on Gothic Terrace**
+  - Category: scene
+  - Original filename: eldenring 2026-11-02 11-54-37_997.png
+  - Capture timestamp: 2026-11-02 11-54-37_997
+- **Armored Figure over Blue Ruins**
+  - Category: scene
+  - Original filename: eldenring 2026-05-01 12-53-53_852.png
+  - Capture timestamp: 2026-05-01 12-53-53_852
+- **Armored Swordsman beneath Blue Towers**
+  - Category: scene
+  - Original filename: eldenring 2026-11-01 07-49-33_700.png
+  - Capture timestamp: 2026-11-01 07-49-33_700
+- **Autumn Meadow Portrait**
+  - Category: scene
+  - Original filename: eldenring 2026-09-12 02-17-22_232.png
+  - Capture timestamp: 2026-09-12 02-17-22_232
+- **Bare Trees in Rose Haze**
+  - Category: scene
+  - Original filename: eldenring 2026-09-10 02-22-43_491.png
+  - Capture timestamp: 2026-09-10 02-22-43_491
+- **Blue Fog beneath Golden Cliffs**
+  - Category: scene
+  - Original filename: eldenring 2026-09-15 00-37-39_528.png
+  - Capture timestamp: 2026-09-15 00-37-39_528
+- **Bright Sky from a Dark Arch**
+  - Category: scene
+  - Original filename: eldenring 2026-11-08 13-34-40_425.png
+  - Capture timestamp: 2026-11-08 13-34-40_425
+- **Burning Tree and Scarlet Clouds**
+  - Category: scene
+  - Original filename: eldenring 2026-10-21 03-30-49_728.png
+  - Capture timestamp: 2026-10-21 03-30-49_728
+- **Candlelit Gallery from Above**
+  - Category: scene
+  - Original filename: eldenring 2026-11-02 07-03-48_422.png
+  - Capture timestamp: 2026-11-02 07-03-48_422
+- **Castle and Golden Foliage**
+  - Category: scene
+  - Original filename: eldenring 2026-09-12 21-29-07_690.png
+  - Capture timestamp: 2026-09-12 21-29-07_690
+- **Castle from a Dark Arch**
+  - Category: scene
+  - Original filename: eldenring 2026-10-21 04-01-53_589.png
+  - Capture timestamp: 2026-10-21 04-01-53_589
+- **Castle Panorama at Dusk**
+  - Category: scene
+  - Original filename: eldenring 2026-10-18 19-47-53_138.png
+  - Capture timestamp: 2026-10-18 19-47-53_138
+- **Cathedral Interior and Distant Light**
+  - Category: scene
+  - Original filename: eldenring 2026-11-02 12-15-09_722.png
+  - Capture timestamp: 2026-11-02 12-15-09_722
+- **Cliffside Arch and Distant Sea**
+  - Category: scene
+  - Original filename: eldenring 2026-11-02 04-23-18_727.png
+  - Capture timestamp: 2026-11-02 04-23-18_727
+- **Erdtree Light over Blue Ruins**
+  - Category: scene
+  - Original filename: eldenring 2026-05-01 07-43-26_684.png
+  - Capture timestamp: 2026-05-01 07-43-26_684
+- **Erdtree Light over Castle Walls**
+  - Category: scene
+  - Original filename: eldenring 2026-09-14 01-57-01_402.png
+  - Capture timestamp: 2026-09-14 01-57-01_402
+- **Figure Engulfed in Flame**
+  - Category: scene
+  - Original filename: eldenring 2026-10-21 03-30-09_190.png
+  - Capture timestamp: 2026-10-21 03-30-09_190
+- **Golden Autumn Field**
+  - Category: scene
+  - Original filename: eldenring 2026-09-12 06-56-50_669.png
+  - Capture timestamp: 2026-09-12 06-56-50_669
+- **Golden Field and Distant Castle**
+  - Category: scene
+  - Original filename: eldenring 2026-09-24 03-40-52_256.png
+  - Capture timestamp: 2026-09-24 03-40-52_256
+- **Golden Reflection on Water**
+  - Category: scene
+  - Original filename: eldenring 2026-10-21 22-23-27_881.png
+  - Capture timestamp: 2026-10-21 22-23-27_881
+- **Gothic Terrace and Bright Skyline**
+  - Category: scene
+  - Original filename: eldenring 2026-11-02 04-49-56_367.png
+  - Capture timestamp: 2026-11-02 04-49-56_367
+- **Grace in Golden Hall with Menu**
+  - Category: scene
+  - Original filename: eldenring 2026-05-01 09-18-34_500.png
+  - Capture timestamp: 2026-05-01 09-18-34_500
+- **Green Lit Snowy Ruins**
+  - Category: scene
+  - Original filename: eldenring 2026-11-01 16-29-18_584.png
+  - Capture timestamp: 2026-11-01 16-29-18_584
+- **Green Valley and Distant Towers**
+  - Category: scene
+  - Original filename: eldenring 2026-11-01 19-34-55_771.png
+  - Capture timestamp: 2026-11-01 19-34-55_771
+- **Lazara Twin Lantern in Red Hall**
+  - Category: scene
+  - Original filename: BASEReFlexAgX-Lazara-Twin-Lantern.png
+  - Capture timestamp: 2026-11-02 13-34-13
+- **Mounted Figure beneath Twisted Branches**
+  - Category: scene
+  - Original filename: eldenring 2026-11-08 14-18-21_938.png
+  - Capture timestamp: 2026-11-08 14-18-21_938
+- **Mounted Rider beneath Golden Erdtree**
+  - Category: scene
+  - Original filename: eldenring 2026-09-10 12-38-52_373.png
+  - Capture timestamp: 2026-09-10 12-38-52_373
+- **Mounted Rider in Blue Cavern**
+  - Category: scene
+  - Original filename: eldenring 2026-09-10 02-33-49_037.png
+  - Capture timestamp: 2026-09-10 02-33-49_037
+- **Mounted Rider in Green Stone Court**
+  - Category: scene
+  - Original filename: eldenring 2026-11-01 23-05-04_616.png
+  - Capture timestamp: 2026-11-01 23-05-04_616
+- **Orange Hillside beneath a Teal Sky**
+  - Category: scene
+  - Original filename: eldenring 2026-06-14 07-30-37_967.png
+  - Capture timestamp: 2026-06-14 07-30-37_967
+- **Ornate Tower under a Blue Sky**
+  - Category: scene
+  - Original filename: eldenring 2026-09-14 01-57-19_196.png
+  - Capture timestamp: 2026-09-14 01-57-19_196
+- **Pink Flowers beside a Stone Wall**
+  - Category: scene
+  - Original filename: eldenring 2026-11-02 14-24-12_446.png
+  - Capture timestamp: 2026-11-02 14-24-12_446
+- **Raised Sword at Sunset**
+  - Category: scene
+  - Original filename: eldenring 2026-06-09 12-07-26_942.png
+  - Capture timestamp: 2026-06-09 12-07-26_942
+- **Red Meadow beneath Tangled Branches**
+  - Category: scene
+  - Original filename: eldenring 2026-10-31 11-23-30_054.png
+  - Capture timestamp: 2026-10-31 11-23-30_054
+- **Red Sky at Stone Ridge**
+  - Category: scene
+  - Original filename: eldenring 2026-05-01 09-07-55_140.png
+  - Capture timestamp: 2026-05-01 09-07-55_140
+- **Scarlet Canopy and Green Field**
+  - Category: scene
+  - Original filename: eldenring 2026-06-13 17-02-17_982.png
+  - Capture timestamp: 2026-06-13 17-02-17_982
+- **Scarlet Gate and Stone Wall**
+  - Category: scene
+  - Original filename: eldenring 2026-09-14 22-54-37_122.png
+  - Capture timestamp: 2026-09-14 22-54-37_122
+- **Snowy Ruins beneath Pale Green Sky**
+  - Category: scene
+  - Original filename: eldenring 2026-11-01 19-41-35_995.png
+  - Capture timestamp: 2026-11-01 19-41-35_995
+- **Stone Chamber and Seated Figures**
+  - Category: scene
+  - Original filename: eldenring 2026-10-31 01-44-54_728.png
+  - Capture timestamp: 2026-10-31 01-44-54_728
+- **Sunlit Golden Canopy**
+  - Category: scene
+  - Original filename: eldenring 2026-11-08 12-46-05_696.png
+  - Capture timestamp: 2026-11-08 12-46-05_696
+- **Sunlit Gothic Stair and Balustrade**
+  - Category: scene
+  - Original filename: eldenring 2026-11-02 12-07-26_950.png
+  - Capture timestamp: 2026-11-02 12-07-26_950
