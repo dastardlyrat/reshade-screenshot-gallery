@@ -46,3 +46,11 @@ See [CATALOG.md](CATALOG.md) for their titles and capture details.
 ## Notes
 
 The XCOM 2 set includes title-screen and diagnostic captures. The catalog identifies those records directly. The Unidentified Game entry retains that classification because the available source location does not establish its game identity.
+
+## Project directory and related work
+
+[Browse the dastardlyrat project directory](https://dastardlyrat.github.io/).
+
+- [reshade-preset-catalog](https://github.com/dastardlyrat/reshade-preset-catalog)
+- [OpenSurface](https://github.com/dastardlyrat/OpenSurface)
+- [Lazara-Reshade-Revival-Package](https://github.com/dastardlyrat/Lazara-Reshade-Revival-Package)
